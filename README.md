@@ -26,6 +26,8 @@ La arquitectura utilizada para el sistema de control de reservas de la empresa d
   <li>Apollo</li>
   <li>VueJS</li>
   <li>Bootstrap</li>
+  <li>PostgreSQL</li>
+  <li>MongoDB</li>
 </ul>
 
 ## Base de datos
