@@ -8,6 +8,15 @@ El proyecto consta de dos partes, una seccion orientada al back-end y otra al fr
   <li><a href="https://github.com/#">Documentacion Back-End</a></li>
 </ul>
 
+## Arquitectura
+
+La arquitectura utilizada para el sistema de control de reservas de la empresa de viajes es la arquitectura de 3 capas las cuales son:
+<ul>
+  <li>Capa de presentacion</li>
+  <li>Capa de negocio</li>
+  <li>Capa de datos</li>
+</ul>
+
 ## Base de datos
 
 ![Untitled Diagram drawio (5)](https://user-images.githubusercontent.com/78517969/140626965-c20435c1-264a-4627-9ef0-9d78c6461511.png)
