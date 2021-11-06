@@ -17,6 +17,17 @@ La arquitectura utilizada para el sistema de control de reservas de la empresa d
   <li>Capa de datos</li>
 </ul>
 
+## Tecnologias a utilizar
+
+<ul>
+  <li>Django</li>
+  <li>Spring Boot</li>
+  <li>Express</li>
+  <li>Apollo</li>
+  <li>VueJS</li>
+  <li>Bootstrap</li>
+</ul>
+
 ## Base de datos
 
 ![Untitled Diagram drawio (5)](https://user-images.githubusercontent.com/78517969/140626965-c20435c1-264a-4627-9ef0-9d78c6461511.png)
