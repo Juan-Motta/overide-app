@@ -21,7 +21,6 @@ La arquitectura utilizada para el sistema de control de reservas de la empresa d
 
 <ul>
   <li>Django</li>
-  <li>Spring Boot</li>
   <li>Express</li>
   <li>Apollo</li>
   <li>VueJS</li>
