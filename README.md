@@ -31,7 +31,7 @@ La arquitectura utilizada para el sistema de control de reservas de la empresa d
 
 ## Arquitectura de la aplicación
 
-![Untitled Diagram drawio (6)](https://user-images.githubusercontent.com/78517969/140631264-f76d7631-09d8-4905-902f-eb2f89c0a0d8.png)
+![Untitled Diagram drawio (5)](https://user-images.githubusercontent.com/78517969/140631339-150d7afb-c257-4d61-b5e4-ec450d69ca08.png)
 
 
 ## Base de datos
