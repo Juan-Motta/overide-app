@@ -29,6 +29,11 @@ La arquitectura utilizada para el sistema de control de reservas de la empresa d
   <li>MongoDB</li>
 </ul>
 
+## Arquitectura de la aplicación
+
+![Untitled Diagram drawio (6)](https://user-images.githubusercontent.com/78517969/140631264-f76d7631-09d8-4905-902f-eb2f89c0a0d8.png)
+
+
 ## Base de datos
 
 ![Untitled Diagram drawio (5)](https://user-images.githubusercontent.com/78517969/140626965-c20435c1-264a-4627-9ef0-9d78c6461511.png)
