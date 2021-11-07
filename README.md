@@ -4,8 +4,11 @@ Overide es un projecto orientado a mejorar los viajes terrestres intermunicipale
 
 El proyecto consta de dos partes, una seccion orientada al back-end y otra al front-end. En los siguientes apartados podra encontrar la documentacion asociada a los proyectos.
 <ul>
-  <li><a href="https://github.com/Juan-Motta/overide-backend-app">Documentacion Front-End</a></li>
-  <li><a href="https://github.com/#">Documentacion Back-End</a></li>
+  <li><a href="https://github.com/Juan-Motta/overide-backend-app/tree/main/Cliente">Documentacion Front-End</a></li>
+  <li><a href="https://github.com/Juan-Motta/overide-backend-app/tree/main/Gateway%20API">Documentacion API Gateway</a></li>
+  <li><a href="https://github.com/Juan-Motta/overide-backend-app/tree/main/Usuarios">Documentacion Microservicio Usuarios</a></li>
+  <li><a href="https://github.com/Juan-Motta/overide-backend-app/tree/main/Trayectos">Documentacion Microservicio Trayectos</a></li>
+  <li><a href="https://github.com/Juan-Motta/overide-backend-app/tree/main/Reservas">Documentacion Microservicio Reservas</a></li>
 </ul>
 
 ## Arquitectura
