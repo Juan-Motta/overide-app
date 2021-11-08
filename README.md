@@ -34,9 +34,17 @@ La arquitectura utilizada para el sistema de control de reservas de la empresa d
 
 ## Arquitectura de microservicios
 
-La aplicación cuenta con diferentes sub-sistemas, primero cuenta con un front-end creado en VueJS encargado de toda la capa de presentacion, tres microservicios en el lado de back-end encargados del sistema de usuarios y autenticacion, el sistema de reservas y el sistema de trayectos, estos sistemas se encuentran construios en Express para el sistema de usuarios junto con una base de datos no relacional (mongoDB) y Django Rest Framwork para los sistemas de reservas y trayectos junto con una base de datos relacional (PostgreSQL), ademas los sistemas se encuentran interconectados por un API gateway basada en GraphQL.
+La aplicación cuenta con diferentes sub-sistemas, primero cuenta con un front-end creado en VueJS encargado de toda la capa de presentacion, cuatro microservicios en el lado de back-end los cuales son:
+<ul>
+  <li>Servicio de usuarios y autenticación</li>
+  <li>Servicio de trayectos</li>
+  <li>Servicio de reservas</li>
+  <li>Servicio de correo</li>
+</ul>
+estos sistemas se encuentran construios en Express para el sistema de usuarios junto con una base de datos no relacional (mongoDB) para el servicio de usuarios y autenticación, Expresss y NodeMailer para el servicio de correo y Django Rest Framwork junto con una base de datos relacional (PostgreSQL) para los servicios de trayectos y reservas, ademas los sistemas se encuentran interconectados por un API gateway basada en GraphQL.
 
-![Untitled Diagram drawio (5)](https://user-images.githubusercontent.com/78517969/140631339-150d7afb-c257-4d61-b5e4-ec450d69ca08.png)
+![Untitled Diagram drawio (5)](https://user-images.githubusercontent.com/78517969/140796471-df428234-502f-4e4b-839c-39cbc45341a8.png)
+
 
 ## Base de datos
 
