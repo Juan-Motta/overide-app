@@ -48,6 +48,7 @@ estos sistemas se encuentran construios en Express para el sistema de usuarios j
 
 ## Base de datos
 
-![Untitled Diagram drawio (5)](https://user-images.githubusercontent.com/78517969/140626965-c20435c1-264a-4627-9ef0-9d78c6461511.png)
+![Base de datos drawio](https://user-images.githubusercontent.com/78517969/140798304-8f12801d-97a1-4673-8ff4-46f3d391f9be.png)
+
 
 
