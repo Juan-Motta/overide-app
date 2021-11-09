@@ -51,3 +51,10 @@ estos sistemas se encuentran construios en Express para el sistema de usuarios j
 
 ![Base de datos drawio (1)](https://user-images.githubusercontent.com/78517969/140799006-00598580-07f0-42e0-90e3-700e802b1b4f.png)
 
+## Descripción del proceso de reserva
+
+El proceso de reserva de un pasaje comienza con el usuario llenando el formulario el cual contiene los campos para ingresar la ciudad de origen, de destino, la fecha y la hora del viaje, si estos datos coinciden con algun trayecto disponible en la base de datos se debe proceder a la seleccion del mismo, si los datos ingresados no coinciden se finaliza el proceso y el usuario debera buscar otro trayecto con nuevos valores. Una vez seleccionado el trayecto se comprobara si el usuario se encuentra logeado en la aplicación, si lo esta se procedera al ingreso de datos del pasajero, si no se procedera a realizar el proceso de inicio de sesion para continuar con el ingreso de datos. En el ingreso de datos del pasajero el usuario tendra que llenar todos los campos referentes a la informacion personal del pasajero y una vez terminado se procedera a la seleccion de puesto y finalmente a la confirmacion de la reserva en donde el usuario podra ver todo el resumen de la información de la reserva.
+
+![Untitled Diagram drawio (6)](https://user-images.githubusercontent.com/78517969/140844660-e46a163d-1f48-4ec9-9b9f-8326e64140e1.png)
+
+
