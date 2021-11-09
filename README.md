@@ -33,6 +33,10 @@ La arquitectura utilizada para el sistema de control de reservas de la empresa d
   <li>MongoDB</li>
 </ul>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78517969/140856819-1b3d34e0-76bd-47b0-8a6c-e497167c4efa.png" alt="DB_Model" />
+</p>
+
 ## Arquitectura de microservicios
 
 La aplicación cuenta con diferentes sub-sistemas, primero cuenta con un front-end creado en VueJS encargado de toda la capa de presentacion, cuatro microservicios en el lado de back-end los cuales son:
