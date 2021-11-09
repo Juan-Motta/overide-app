@@ -23,16 +23,6 @@ La arquitectura utilizada para el sistema de control de reservas de la empresa d
 
 ## Tecnologias a utilizar
 
-<ul>
-  <li>Django</li>
-  <li>Express</li>
-  <li>Apollo</li>
-  <li>VueJS</li>
-  <li>Bootstrap</li>
-  <li>PostgreSQL</li>
-  <li>MongoDB</li>
-</ul>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78517969/140857072-fa5288cd-9cce-49fd-9813-12318e67361f.png" alt="DB_Model" />
 </p>
