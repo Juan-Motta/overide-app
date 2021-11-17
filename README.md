@@ -24,7 +24,8 @@ La arquitectura utilizada para el sistema de control de reservas de la empresa d
 ## Tecnologias a utilizar
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78517969/140857072-fa5288cd-9cce-49fd-9813-12318e67361f.png" alt="DB_Model" />
+  <img src="https://user-images.githubusercontent.com/78517969/142131583-447754a5-02c5-4cf6-983a-8fe072abb13b.png" alt="DB_Model" />
+  
 </p>
 
 ## Arquitectura de microservicios
