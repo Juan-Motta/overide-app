@@ -37,9 +37,17 @@ La aplicación cuenta con diferentes sub-sistemas, primero cuenta con un front-e
   <li>Servicio de reservas</li>
   <li>Servicio de correo</li>
 </ul>
-estos sistemas se encuentran construios en Express para el sistema de usuarios junto con una base de datos no relacional (mongoDB) para el servicio de usuarios y autenticación, Expresss y NodeMailer para el servicio de correo y Django Rest Framwork junto con una base de datos relacional (PostgreSQL) para los servicios de trayectos y reservas, ademas los sistemas se encuentran interconectados por un API gateway basada en GraphQL.
+Los cuales estan contruidos con las siguientes tecnologias:
+<br>
+<br>
+<ul>
+  <li>Servicio de usuarios y autenticación: Django + PostgreSQL</li>
+  <li>Servicio de trayectos: Spring Boot + PostgreSQL</li>
+  <li>Servicio de reservas: Express + MongoDB</li>
+  <li>Servicio de correo: Expres + NodeMailer</li>
+</ul>
 
-![arquitectura drawio (1)](https://user-images.githubusercontent.com/78517969/141704934-e7666c92-7e87-45c5-a389-2793caf81daa.png)
+![arquitectura drawio (2)](https://user-images.githubusercontent.com/78517969/142131850-724552b8-699c-4b73-a770-a28d56e88eb9.png)
 
 ## Base de datos
 
