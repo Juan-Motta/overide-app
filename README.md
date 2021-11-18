@@ -44,7 +44,7 @@ Los cuales estan contruidos con las siguientes tecnologias:
   <li>Servicio de usuarios y autenticación: Django + PostgreSQL</li>
   <li>Servicio de trayectos: Spring Boot + PostgreSQL</li>
   <li>Servicio de reservas: Express + MongoDB</li>
-  <li>Servicio de correo: Expres + NodeMailer</li>
+  <li>Servicio de correo: Express + NodeMailer</li>
 </ul>
 
 ![arquitectura drawio (2)](https://user-images.githubusercontent.com/78517969/142131850-724552b8-699c-4b73-a770-a28d56e88eb9.png)
