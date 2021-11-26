@@ -8,7 +8,7 @@ El proyecto consta de dos partes, una seccion orientada al back-end y otra al fr
   <li><a href="https://github.com/Juan-Motta/overide-backend-app/tree/main/Gateway%20API">Documentacion API Gateway</a></li>
   <li><a href="https://github.com/Juan-Motta/overide-users-microservice">Documentacion Microservicio Usuarios</a></li>
   <li><a href="https://github.com/Juan-Motta/overide-rides-microservice">Documentacion Microservicio Trayectos</a></li>
-  <li><a href="https://github.com/Juan-Motta/overide-backend-app/tree/main/Reservas">Documentacion Microservicio Reservas</a></li>
+  <li><a href="https://github.com/Juan-Motta/overide-booking-microservice">Documentacion Microservicio Reservas</a></li>
   <li><a href="https://github.com/Juan-Motta/overide-app/tree/main/Mail">Documentacion Microservicio Mailing</a></li>  
 </ul>
 
